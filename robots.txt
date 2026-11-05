@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://parladisklinigi.com/sitemap.xml
+Sitemap: https://parla-ecru.vercel.app/sitemap.xml

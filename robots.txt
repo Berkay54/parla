@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://parladisklinigi.com/sitemap.xml
